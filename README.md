@@ -13,7 +13,6 @@ Welcome to the Dead-Sea-Project! This research delves into the impact of global 
 - Data Processing 🛠️
 - Machine Learning 📈🧠
 - Data Visualization 📊👀
-- Git & GitHub 🗃️👥
 
 **Objective**
 Our mission is to advance scientific knowledge on climate change's implications for the Dead Sea's ecosystem. Join us on this journey to explore data-driven insights and contribute to preserving our planet's natural wonders. 🌍🌱
